@@ -1,0 +1,18 @@
+{
+    "name": "avzer/locale",
+    "type": "library",
+    "description": "global locale",
+    "homepage": "https://github.com/avzer/locale",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/avzer/locale/issues"
+    },
+    "authors": [
+        {
+            "name": "Wei",
+            "email": "ghostwei@gmail.com",
+            "homepage": "https://github.com/avzer",
+            "role": "Developer"
+        }
+    ]
+}
