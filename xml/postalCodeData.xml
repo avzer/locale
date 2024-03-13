@@ -17,7 +17,7 @@
             <postCodeRegex territoryId="CH" >\d{4}</postCodeRegex>
             <postCodeRegex territoryId="AT" >\d{4}</postCodeRegex>
             <postCodeRegex territoryId="ES" >\d{5}</postCodeRegex>
-            <postCodeRegex territoryId="NL" >\d{4}</postCodeRegex>
+            <postCodeRegex territoryId="NL" >\d{4}([a-zA-Z]{2})?</postCodeRegex>
             <postCodeRegex territoryId="BE" >\d{4}</postCodeRegex>
             <postCodeRegex territoryId="DK" >\d{4}</postCodeRegex>
             <postCodeRegex territoryId="SE" >\d{3}[ ]?\d{2}</postCodeRegex>
